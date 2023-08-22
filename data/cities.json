@@ -1,40 +1,59 @@
 {
-    "cities": [
-      {
-        "cityName": "Lisbon",
-        "country": "Portugal",
-        "emoji": "🇵🇹",
-        "date": "2027-10-31T15:59:59.138Z",
-        "notes": "My favorite city so far!",
-        "position": {
-          "lat": 38.727881642324164,
-          "lng": -9.140900099907554
-        },
-        "id": 73930385
+  "cities": [
+    {
+      "cityName": "Rampur",
+      "country": "India",
+      "date": "2023-08-22T06:49:05.045Z",
+      "notes": "",
+      "position": {
+        "lat": "29.668046720722312",
+        "lng": "77.5298122755916"
       },
-      {
-        "cityName": "Madrid",
-        "country": "Spain",
-        "emoji": "🇪🇸",
-        "date": "2027-07-15T08:22:53.976Z",
-        "notes": "",
-        "position": {
-          "lat": 40.46635901755316,
-          "lng": -3.7133789062500004
-        },
-        "id": 17806751
+      "id": 1
+    },
+    {
+      "cityName": "Delhi",
+      "country": "India",
+      "date": "2023-08-22T06:49:18.638Z",
+      "notes": "",
+      "position": {
+        "lat": "28.612106825396747",
+        "lng": "77.27725008497468"
       },
-      {
-        "cityName": "Berlin",
-        "country": "Germany",
-        "emoji": "🇩🇪",
-        "date": "2027-02-12T09:24:11.863Z",
-        "notes": "Amazing 😃",
-        "position": {
-          "lat": 52.53586782505711,
-          "lng": 13.376933665713324
-        },
-        "id": 98443197
-      }
-    ]
-  }
+      "id": 2
+    },
+    {
+      "cityName": "Kiraoli",
+      "country": "India",
+      "date": "2023-08-22T06:49:53.894Z",
+      "notes": "",
+      "position": {
+        "lat": "27.02820509974815",
+        "lng": "77.59584287396854"
+      },
+      "id": 3
+    },
+    {
+      "cityName": "Rohtak",
+      "country": "India",
+      "date": "2023-08-22T06:52:31.790Z",
+      "notes": "",
+      "position": {
+        "lat": "28.920406622292173",
+        "lng": "76.70623991488429"
+      },
+      "id": 4
+    },
+    {
+      "cityName": "Hoshiarpur",
+      "country": "India",
+      "date": "2023-08-22T06:53:38.089Z",
+      "notes": "",
+      "position": {
+        "lat": "31.48414930117099",
+        "lng": "76.02518411081454"
+      },
+      "id": 5
+    }
+  ]
+}

@@ -3,10 +3,10 @@ import styles from "./CityList.module.css";
 import CityItem from "./CityItem";
 import Message from "./Message"
   /* eslint-disable react/prop-types */
+import { useCities } from "../contexts/CityProvider";
 
-
-function CityList({cities,isLoading}) {
-
+function CityList() {
+   const{cities,isLoading} = useCities()
 
   if (isLoading) return <Spinner />;
 
