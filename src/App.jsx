@@ -12,14 +12,15 @@ import CountryList from "./components/CountryList"
 import City from "./components/City"
 import Form from "./components/Form"
 import { CitiesProvider } from "./contexts/CityProvider"
-
+import { AuthProvider } from "./contexts/AuthContext"
   /* eslint-disable react/prop-types */
 
 
 function App() {
  
   return (
-    <CitiesProvider>
+  <AuthProvider>
+  <CitiesProvider>
   <BrowserRouter>
   <Routes>
     <Route index element={<HomePage />} />
@@ -39,6 +40,7 @@ function App() {
   </Routes>
   </BrowserRouter>
   </CitiesProvider>
+  </AuthProvider>
 )}
 
 export default App

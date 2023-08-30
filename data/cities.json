@@ -1,59 +1,114 @@
 {
   "cities": [
     {
-      "cityName": "Rampur",
+      "cityName": "Amroha",
       "country": "India",
-      "date": "2023-08-22T06:49:05.045Z",
+      "date": "2023-08-29T08:10:41.664Z",
       "notes": "",
       "position": {
-        "lat": "29.668046720722312",
-        "lng": "77.5298122755916"
-      },
-      "id": 1
-    },
-    {
-      "cityName": "Delhi",
-      "country": "India",
-      "date": "2023-08-22T06:49:18.638Z",
-      "notes": "",
-      "position": {
-        "lat": "28.612106825396747",
-        "lng": "77.27725008497468"
+        "lat": "28.83345600677241",
+        "lng": "78.47457327672262"
       },
       "id": 2
     },
     {
-      "cityName": "Kiraoli",
+      "cityName": "Patiali",
       "country": "India",
-      "date": "2023-08-22T06:49:53.894Z",
+      "date": "2023-08-29T08:10:44.000Z",
       "notes": "",
       "position": {
-        "lat": "27.02820509974815",
-        "lng": "77.59584287396854"
+        "lat": "27.71092703125626",
+        "lng": "79.11195109362932"
       },
       "id": 3
     },
     {
-      "cityName": "Rohtak",
+      "cityName": "Sandi",
       "country": "India",
-      "date": "2023-08-22T06:52:31.790Z",
+      "date": "2023-08-29T08:10:46.225Z",
       "notes": "",
       "position": {
-        "lat": "28.920406622292173",
-        "lng": "76.70623991488429"
+        "lat": "27.34101183748481",
+        "lng": "79.71620421334558"
       },
       "id": 4
     },
     {
-      "cityName": "Hoshiarpur",
+      "cityName": "Morena",
       "country": "India",
-      "date": "2023-08-22T06:53:38.089Z",
+      "date": "2023-08-29T08:10:48.432Z",
       "notes": "",
       "position": {
-        "lat": "31.48414930117099",
-        "lng": "76.02518411081454"
+        "lat": "26.488552513348555",
+        "lng": "78.18943264770719"
       },
       "id": 5
+    },
+    {
+      "cityName": "Mathura",
+      "country": "India",
+      "date": "2023-08-29T08:10:51.104Z",
+      "notes": "",
+      "position": {
+        "lat": "27.497599667340566",
+        "lng": "77.5191364291558"
+      },
+      "id": 6
+    },
+    {
+      "cityName": "Jhajjar",
+      "country": "India",
+      "date": "2023-08-29T08:10:53.400Z",
+      "notes": "",
+      "position": {
+        "lat": "28.458102511980286",
+        "lng": "76.70617013021804"
+      },
+      "id": 7
+    },
+    {
+      "cityName": "Bara Uchana",
+      "country": "India",
+      "date": "2023-08-29T08:14:43.961Z",
+      "notes": "",
+      "position": {
+        "lat": "29.40961756808965",
+        "lng": "76.2776864238721"
+      },
+      "id": 8
+    },
+    {
+      "cityName": "Nilokheri",
+      "country": "India",
+      "date": "2023-08-29T08:14:49.176Z",
+      "notes": "",
+      "position": {
+        "lat": "29.868115322062078",
+        "lng": "76.98059498264384"
+      },
+      "id": 9
+    },
+    {
+      "cityName": "Barnala",
+      "country": "India",
+      "date": "2023-08-29T08:14:51.368Z",
+      "notes": "",
+      "position": {
+        "lat": "30.409708706709257",
+        "lng": "75.45383694458219"
+      },
+      "id": 10
+    },
+    {
+      "cityName": "Dabwali",
+      "country": "India",
+      "date": "2023-08-29T08:14:53.736Z",
+      "notes": "",
+      "position": {
+        "lat": "29.810510393674083",
+        "lng": "74.70664826578546"
+      },
+      "id": 11
     }
   ]
 }
